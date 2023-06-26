@@ -188,6 +188,10 @@ main p {
   opacity: 0.7;
 }
 
+blockquote {
+  aspect-ratio: 1/1;
+}
+
 footer {
   color: white;
   background-image: linear-gradient(
