@@ -2,11 +2,11 @@
  
 a responsive 'visit here" app that showcases a few fun-to-see places in Edinburgh and showcases user photos from instagram.
  
-![alt text]([https://i.imgur.com/DtgcJuD.jpg](https://imgur.com/a/gkLTwAE))
+![alt text]([https://i.imgur.com/DtgcJuD.jpg])
 
 deployed site:
 
-[https://sparkly-puppy-8a9681.netlify.app/](https://lucent-palmier-6bce10.netlify.app/)
+([https://lucent-palmier-6bce10.netlify.app/](https://thriving-swan-b434e8.netlify.app/))
 
 utilizing:
 html
