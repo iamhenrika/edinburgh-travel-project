@@ -9,6 +9,6 @@ deployed site:
 ([https://lucent-palmier-6bce10.netlify.app/](https://thriving-swan-b434e8.netlify.app/))
 
 utilizing:
-html
+HTML
+&
 css
-& javascript
